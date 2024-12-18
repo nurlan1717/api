@@ -1,108 +1,108 @@
 {
-  "countries": [
-    {
-      "id": 1,
-      "name": "Azərbaycan",
-      "population": 10000000,
-      "flagImg": "https://example.com/azerbaijan.png",
-      "capital": "Bakı",
-      "description": "Azərbaycan Qafqazda yerləşən ölkədir.",
-      "religion": "İslam"
-    },
-    {
-      "id": 2,
-      "name": "Türkiyə",
-      "population": 85000000,
-      "flagImg": "https://example.com/turkey.png",
-      "capital": "Ankara",
-      "description": "Türkiyə Avropa və Asiya arasında körpüdür.",
-      "religion": "İslam"
-    },
-    {
-      "id": 3,
-      "name": "Almaniya",
-      "population": 83000000,
-      "flagImg": "https://example.com/germany.png",
-      "capital": "Berlin",
-      "description": "Almaniya Avropanın ən güclü iqtisadiyyatına malikdir.",
-      "religion": "Xristianlıq"
-    },
-    {
-      "id": 4,
-      "name": "Fransa",
-      "population": 67000000,
-      "flagImg": "https://example.com/france.png",
-      "capital": "Paris",
-      "description": "Fransa mədəniyyəti və tarixi ilə məşhurdur.",
-      "religion": "Xristianlıq"
-    },
-    {
-      "id": 5,
-      "name": "Rusiya",
-      "population": 144000000,
-      "flagImg": "https://example.com/russia.png",
-      "capital": "Moskva",
-      "description": "Rusiya dünyanın ən böyük ərazisinə malik ölkədir.",
-      "religion": "Pravoslavlıq"
-    },
-    {
-      "id": 6,
-      "name": "Yaponiya",
-      "population": 125000000,
-      "flagImg": "https://example.com/japan.png",
-      "capital": "Tokio",
-      "description": "Yaponiya texnologiya və mədəniyyət ölkəsidir.",
-      "religion": "Şintoizm və Buddizm"
-    }
-  ],
-  "messages": [
-    {
-      "id": 1,
-      "fullName": "Nurlan Məmmədov",
-      "email": "nurlan@example.com",
-      "title": "Salam",
-      "message": "Salam, necə kömək edə bilərəm?",
-      "isRead": false
-    },
-    {
-      "id": 2,
-      "fullName": "Leyla Əliyeva",
-      "email": "leyla@example.com",
-      "title": "Sorğu",
-      "message": "Xahiş edirəm mənə məlumat göndərin.",
-      "isRead": true
-    },
-    {
-      "id": 3,
-      "fullName": "Orxan Hüseynov",
-      "email": "orxan@example.com",
-      "title": "Problemlə bağlı",
-      "message": "Sistemdə bir problem var, yoxlaya bilərsinizmi?",
-      "isRead": false
-    },
-    {
-      "id": 4,
-      "fullName": "Aygün Quliyeva",
-      "email": "aygun@example.com",
-      "title": "Təşəkkür",
-      "message": "Dəstək üçün çox sağ olun!",
-      "isRead": true
-    },
-    {
-      "id": 5,
-      "fullName": "Murad İsmayılov",
-      "email": "murad@example.com",
-      "title": "Görüş təklifi",
-      "message": "Görüş üçün vaxt təyin edə bilərikmi?",
-      "isRead": false
-    },
-    {
-      "id": 6,
-      "fullName": "Elvin Rəhimov",
-      "email": "elvin@example.com",
-      "title": "Sual",
-      "message": "Mənə layihə haqqında daha çox məlumat lazımdır.",
-      "isRead": false
-    }
-  ]
+    "countries": [
+        {
+            "id": 1,
+            "name": "Azərbaycan",
+            "population": 10000000,
+            "flagImg": "https://example.com/azerbaijan.png",
+            "capital": "Bakı",
+            "description": "Azərbaycan Qafqazda yerləşən ölkədir.",
+            "religion": "İslam"
+        },
+        {
+            "id": 2,
+            "name": "Türkiyə",
+            "population": 85000000,
+            "flagImg": "https://example.com/turkey.png",
+            "capital": "Ankara",
+            "description": "Türkiyə Avropa və Asiya arasında körpüdür.",
+            "religion": "İslam"
+        },
+        {
+            "id": 3,
+            "name": "Almaniya",
+            "population": 83000000,
+            "flagImg": "https://example.com/germany.png",
+            "capital": "Berlin",
+            "description": "Almaniya Avropanın ən güclü iqtisadiyyatına malikdir.",
+            "religion": "Xristianlıq"
+        },
+        {
+            "id": 4,
+            "name": "Fransa",
+            "population": 67000000,
+            "flagImg": "https://example.com/france.png",
+            "capital": "Paris",
+            "description": "Fransa mədəniyyəti və tarixi ilə məşhurdur.",
+            "religion": "Xristianlıq"
+        },
+        {
+            "id": 5,
+            "name": "Rusiya",
+            "population": 144000000,
+            "flagImg": "https://example.com/russia.png",
+            "capital": "Moskva",
+            "description": "Rusiya dünyanın ən böyük ərazisinə malik ölkədir.",
+            "religion": "Pravoslavlıq"
+        },
+        {
+            "id": 6,
+            "name": "Yaponiya",
+            "population": 125000000,
+            "flagImg": "https://example.com/japan.png",
+            "capital": "Tokio",
+            "description": "Yaponiya texnologiya və mədəniyyət ölkəsidir.",
+            "religion": "Şintoizm və Buddizm"
+        }
+    ],
+    "messages": [
+        {
+            "id": 1,
+            "fullName": "Nurlan Məmmədov",
+            "email": "nurlan@example.com",
+            "title": "Salam",
+            "message": "Salam, necə kömək edə bilərəm?",
+            "isRead": false
+        },
+        {
+            "id": 2,
+            "fullName": "Leyla Əliyeva",
+            "email": "leyla@example.com",
+            "title": "Sorğu",
+            "message": "Xahiş edirəm mənə məlumat göndərin.",
+            "isRead": true
+        },
+        {
+            "id": 3,
+            "fullName": "Orxan Hüseynov",
+            "email": "orxan@example.com",
+            "title": "Problemlə bağlı",
+            "message": "Sistemdə bir problem var, yoxlaya bilərsinizmi?",
+            "isRead": false
+        },
+        {
+            "id": 4,
+            "fullName": "Aygün Quliyeva",
+            "email": "aygun@example.com",
+            "title": "Təşəkkür",
+            "message": "Dəstək üçün çox sağ olun!",
+            "isRead": true
+        },
+        {
+            "id": 5,
+            "fullName": "Murad İsmayılov",
+            "email": "murad@example.com",
+            "title": "Görüş təklifi",
+            "message": "Görüş üçün vaxt təyin edə bilərikmi?",
+            "isRead": false
+        },
+        {
+            "id": 6,
+            "fullName": "Elvin Rəhimov",
+            "email": "elvin@example.com",
+            "title": "Sual",
+            "message": "Mənə layihə haqqında daha çox məlumat lazımdır.",
+            "isRead": false
+        }
+    ]
 }
